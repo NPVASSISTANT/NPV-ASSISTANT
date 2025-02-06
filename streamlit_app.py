@@ -56,7 +56,7 @@ INITIAL_ASSISTANT_MESSAGE = {
 # INITIAL_USER_MESSAGE = {
 #     "role": "user",
 #     "content": (
-#         "Xin chào trợ lý Anh Lập Trình ! Tôi muốn tìm hiểu thêm về cách sử dụng dịch vụ của bạn. "
+#         "Xin chào trợ lý NPV  ! Tôi muốn tìm hiểu  về qui trình nghi phép và các thực hiện trên IPN. "
 #         "Bạn có thể giúp tôi được không?"
 #     ),
 # }
